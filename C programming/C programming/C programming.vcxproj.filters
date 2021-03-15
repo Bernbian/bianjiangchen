@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hello world.c">
+    <ClCompile Include="输入密码.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
