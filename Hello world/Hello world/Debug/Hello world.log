@@ -1,0 +1,7 @@
+﻿  Hello World.c
+d:\c language class\hello world\hello world\hello world.c(17): warning C4047: “函数”:“rsize_t”与“char [27]”的间接级别不同
+d:\c language class\hello world\hello world\hello world.c(17): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
+d:\c language class\hello world\hello world\hello world.c(17): error C2198: “strcpy_s”: 用于调用的参数太少
+d:\c language class\hello world\hello world\hello world.c(19): warning C4305: “=”: 从“double”到“float”截断
+d:\c language class\hello world\hello world\hello world.c(20): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\c language class\hello world\hello world\hello world.c(20): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
